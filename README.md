@@ -1,2 +1,2 @@
 # hello-world
-just another repository created in the Lab exercise in chapter 18 of the book Learn Git in a month
+I am a Computer Engineer graduated with First Class honour from Obafemi Awolowo University, Ile -Ife.
